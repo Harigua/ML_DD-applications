@@ -1,2 +1,2 @@
 # ML_DD-applications
-Drug Discovery and Repositionning using ML algorithms
+Drug Discovery and Repositionning using ML & DL algorithms.
